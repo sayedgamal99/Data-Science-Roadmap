@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Starks-AI-DataSience-RoadMap</h1> 
+<h1 align="center">Data Science RoadMap</h1> 
 
 
 > For Datacamp courses we have access to it, if you don’t:<br>
@@ -20,15 +20,18 @@
 ## Beginner
 > Estimated time: 1-1.5 months.
 1. **Python**<br>
-[Basics](https://classroom.udacity.com/courses/ud1110)-Udacity<br>
+[Basics](https://www.udacity.com/course/introduction-to-python--ud1110)-Udacity<br>
 [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python)-Datacamp<br>
-Optional: [More in OOP](https://www.futurelearn.com/courses/object-oriented-principles)-Future Learn<br>
+[Tutorial](https://learnpython.org/)-Learn Python
+
 2. **Descriptive Stats** <br>
+[Course](https://www.youtube.com/watch?v=MXaJ7sa7q-8&list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR)-Youtube<br>
 [Course](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)-Udacity<br>
-[Book](http://onlinestatbook.com/Online_Statistics_Education.pdf)<br>
+
 
 
 3. **Numpy**<br>
+[freeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1s)-Youtube<br>
 [Tutorial](http://cs231n.github.io/python-numpy-tutorial/)-CS231n<br>
 [Tutorial](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view?usp=sharing)-Huawei Talent<br>
 [Docs](https://numpy.org/doc/1.18/user/quickstart.html)<br>
@@ -49,8 +52,9 @@ Optional: [Notebook](https://www.kaggle.com/ashishg21/data-cleaning-and-some-ana
 
 
 8. **Data Visualization**<br>
-[Course1](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)-Datacamp<br>
-[Course2](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)-Datacamp<br>
+[Course Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)-Youtube<br>
+[C1Seaborn](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)-Datacamp<br>
+[C2 Seaborn](https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn)-Datacamp<br>
 [Course3](https://www.coursera.org/learn/understanding-visualization-data)-Datacamp<br>
 [Course4](https://www.kaggle.com/learn/data-visualization)-Kaggle<br>
 
